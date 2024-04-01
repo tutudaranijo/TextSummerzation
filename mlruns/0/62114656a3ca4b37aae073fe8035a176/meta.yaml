@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/62114656a3ca4b37aae073fe8035a176/artifacts
+end_time: 1711932678970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62114656a3ca4b37aae073fe8035a176
+run_name: stately-seal-707
+run_uuid: 62114656a3ca4b37aae073fe8035a176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711932676603
+status: 3
+tags: []
+user_id: tutudaranijo

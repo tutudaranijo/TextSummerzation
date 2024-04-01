@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a8e954922a014ec2a5ae2b2aa1f2475a/artifacts
+end_time: 1711935034016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e954922a014ec2a5ae2b2aa1f2475a
+run_name: vaunted-horse-37
+run_uuid: a8e954922a014ec2a5ae2b2aa1f2475a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711935031974
+status: 3
+tags: []
+user_id: tutudaranijo

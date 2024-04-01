@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/141ade1ee2014cc8a75df82fee83abda/artifacts
+end_time: 1711932587744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 141ade1ee2014cc8a75df82fee83abda
+run_name: aged-smelt-485
+run_uuid: 141ade1ee2014cc8a75df82fee83abda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711932587529
+status: 4
+tags: []
+user_id: tutudaranijo
